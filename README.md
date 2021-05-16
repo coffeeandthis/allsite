@@ -1,6 +1,8 @@
 # the-allsite
 A starter kit for your own Hugo site. Yes! You can see how this template / sample site looks by visiting https://oursite.pages.dev.
 
+Before anything else, credit goes to Luiz de Pra, the creator of the theme used in this template. Theme is here: https://github.com/luizdepra/hugo-coder. 
+
 This template repository is meant to help jumpstart a hugo-generated site through services like Cloudflare Pages. 
 
 How to Use it:
