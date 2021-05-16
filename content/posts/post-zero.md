@@ -10,3 +10,6 @@ tags = ["hugo", "cool"]
 title = "Post Zero"
 
 +++
+# Greetings!
+
+Hello everyone. This is the first post using forestry.io. Hooray!
