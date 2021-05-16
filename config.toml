@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "title (2)"
+title = "The New All-Site"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,10 +12,10 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "author (15)"
-description = "description (16)"
+author = "A Human Being"
+description = "A Site by a Creative Mind"
 keywords = "site, all"
-info = "info (18)"
+info = "with a creative mind"
 avatarURL = "images/owlpink.png"
 # gravatar = "images/owlpink.png"
 footerContent = "footerContent. (21)"
