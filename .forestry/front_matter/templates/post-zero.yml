@@ -29,3 +29,5 @@ fields:
 - type: list
   name: series
   label: series
+pages:
+- content/posts/post-zero.md
